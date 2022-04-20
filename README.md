@@ -5,7 +5,7 @@ To move :
   Z
 Q S D
 
-To increase and decrease speed
+To increase and decrease speed :
 ↑
 ↓
 
